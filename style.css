@@ -1,0 +1,25 @@
+/*
+Theme Name:     2011 Child
+Theme URI:      http: //thecloud99.com
+Description:    Twenty Eleven Child Theme 
+Author:         Flash Mallach
+Author URI:     http://flashmallach.github.com
+Template:       twentyeleven
+Version:        0.1
+*/
+
+@import url("../twentyeleven/style.css");
+
+#page .entry-title
+{
+	display: none !important;
+}
+
+a:link, a:visited {
+	color: #000;
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	text-decoration: underline;
+}
