@@ -23,3 +23,8 @@ a:link, a:visited {
 a:hover, a:active {
 	text-decoration: underline;
 }
+
+@media (min-width: 200px) and (max-width:600px){
+    body{background:blue}
+}
+​
